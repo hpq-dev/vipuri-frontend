@@ -1,0 +1,12 @@
+* {
+  /* Font */
+  font-family: 'Inter', sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+
+  /* Reset */
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+}
